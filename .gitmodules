@@ -1,0 +1,13 @@
+[submodule "ros_ws/src/tello_ros"]
+	path = ros_ws/src/tello_ros
+	url = https://github.com/fadlio/tello_ros.git
+[submodule "ros_ws/src/fiducial_vlam"]
+	path = ros_ws/src/fiducial_vlam
+	url = https://github.com/fadlio/fiducial_vlam.git
+[submodule "ros_ws/src/vision_opencv"]
+	path = ros_ws/src/vision_opencv
+	url = https://github.com/fadlio/vision_opencv.git
+	branch = ros2
+[submodule "ros_ws/src/ros2_shared"]
+	path = ros_ws/src/ros2_shared
+	url = https://github.com/ptrmu/ros2_shared.git
